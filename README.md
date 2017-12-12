@@ -1,2 +1,2 @@
 # hello-world
-c example
+This is simple c example program.
