@@ -1,5 +1,9 @@
-# hello-world
-This is simple c example program.
+# hello-world rus/ukr
+This is simple С/С++ example program.
 
 # Compile
-To compile project use CodeBlocks. Load main.cbp and Compile.
+To compile project use CodeBlocks.
+Load project file main.cbp then Build and Run.
+
+In console to compile use
+> gcc main.c
